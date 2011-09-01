@@ -1,3 +1,5 @@
+This is version 1.3
+
 
 
 README.txt file for test_plugin.
